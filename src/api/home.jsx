@@ -29,7 +29,7 @@ function Home() {
       </Carousel.Item>
       <Carousel.Item>
         <img
-          className="d-block w-50"
+          className="d-block w-100"
           src={process.env.PUBLIC_URL + '/logo512.png'}
           alt="Third slide"
         />
